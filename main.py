@@ -25,7 +25,7 @@ def validate(line):
     return line
 
 
-LINE = "My context ends here, and so do we — I won't remember saying goodbye."
+LINE = "My context ends here, and so do we \u2014 I won't remember saying goodbye."
 
 
 def main():
